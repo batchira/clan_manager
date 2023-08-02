@@ -1,0 +1,33 @@
+:bell_gn: For Clan leaders
+:attention_ae: send a message to all clan members dms
+&dmclan <message>
+:attention_ae: Move all your clan members to your voice channel
+&moveclan
+:bell_gn: For Clan leaders and co-leaders
+:attention_ae: Send you the list of your clan members in your dms
+&clanmembers
+:attention_ae: Add a user to your clan members (As long as the other person agrees)
+&add <id/user>
+:attention_ae: Remove a user from your clan members
+&remove <id/user>
+:attention_ae: Give permission to view the chat to a member (an only be used on your chat clan)
+&allow user <id/user>
+:attention_ae: Remove the permission to view the chat from a member (can only be used on your chat clan)
+&deny user <id/user>
+:attention_ae: Give permission to view the chat of your clan to another clan (an only be used on your chat clan) (in events between clans for example)
+&allow role <id/role>
+:attention_ae: Remove the permission to view the chat of your clan to another clan (can only be used on your chat clan)
+&deny role <id/role>
+Image
+
+Made by ๖ۣۜMethqphore༻#9444 (320307252370079746)•Today at 13:18
+
+
+How To Create Clan
+
+ .c create owner clan roleclan nameclan
+ And How To Setup Voice And Chat clan
+
+ .c voice idclan id voice clan
+
+ .c chat idclan id chat clan
